@@ -11,32 +11,41 @@ Total Sales
 Total Bookings
 Average Customer Rating
 Average ADR (Average Daily Rate)
-Total Compensation Pay
+Total Compensation Pay.
+
 📅 Time-Based Analysis
-Sales and bookings trend by arrival date (monthly/yearly view)
+Sales and bookings trend by arrival date (monthly/yearly view).
+
 💳 Payment Method Insights
-Distribution of payments (Cash, Credit Card, Online Transfer)
+Distribution of payments (Cash, Credit Card, Online Transfer).
+
 🌍 Regional Performance
-Sales comparison across regions (Central, East, North)
+Sales comparison across regions (Central, East, North).
+
 🏨 Hotel Performance
 Sales contribution by individual hotels
-Comparison of sales by hotel type (City Hotel vs Resort Hotel)
+Comparison of sales by hotel type (City Hotel vs Resort Hotel).
+
+
 🎛️ Interactive Filters (Slicers)
 Region
 Hotel Type
 Membership Type
-Payment Method
+Payment Method.
+
 🛠️ Tools & Techniques Used
 Microsoft Excel
 Pivot Tables & Pivot Charts
 Data Cleaning & Transformation
 Dashboard Design & Formatting
-Slicers for Interactivity
+Slicers for Interactivity.
+
 📈 Insights Generated
 Identified top-performing hotels based on sales
 Analyzed customer payment preferences
 Compared performance across different regions and hotel types
-Tracked business trends over time for better forecasting
+Tracked business trends over time for better forecasting.
+
 🎯 Project Objective
 
 The goal of this project is to analyze hotel transaction data and build an interactive dashboard that provides clear, actionable insights for improving business performance and decision-making.
